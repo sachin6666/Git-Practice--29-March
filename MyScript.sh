@@ -8,3 +8,4 @@ HEAD is a reference to the last commit in the currently checked-out branch.
 them into its version history yet. 
 - Staged changes are a lot like unstaged changes, except that they’ve been 
 marked to be committed the next time you run git commit
+SAchin
